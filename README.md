@@ -14,7 +14,7 @@ My flagship project - an AI-powered character engine where you can summon *any* 
 
 Want to see the portal in action? The free demo lets you summon up to 3 Known characters and 3 Novel (AI-invented) characters, explore their RPG sheets, and export them as beautifully laid-out PDFs. No account required, no API key needed.
 
-👉 [Try the Demo](https://DEMO-LINK-TBD)
+👉 [Try the Demo](https://demo.infiniteportalmayhem.com)
 
 ### In Early Access
 
@@ -52,6 +52,7 @@ Available now on [itch.io](https://infiniteportalvault.itch.io):
 
 | Product | Description | Price |
 |---|---|---|
+| **Infinite Portal Vault** | A solo RPG AI Game Master Driven Adventure w/ an Infinite Fictional Character Summoning Engine - EARLY ACCESS PRICING | $19.99 |
 | **The Investigator's Oracle** | A solo RPG oracle system for investigation and mystery games | $8.99 |
 | **The Cold Case Files** | 5 complete case file adventures for solo horror & mystery roleplaying | $14.99 |
 
