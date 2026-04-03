@@ -60,7 +60,9 @@ Available now on [itch.io](https://infiniteportalvault.itch.io):
 
 ## 🛠️ How I Work
 
-I'm a solo developer who directs AI coding agents rather than writing code by hand. The agents are brilliant but need a firm hand - left unsupervised they'll refactor your entire codebase while you're getting coffee. Keeping them productive means heavy documentation, strong architectural guardrails, and strict security auditing on every project. My stack lives on CachyOS Linux running an AMD Ryzen AI MAX+ 395 with 128GB unified memory.
+I'm a solo developer who directs AI coding agents rather than writing code by hand. The agents are brilliant but need a firm hand - left unsupervised they'll refactor your entire codebase while you're getting coffee. Keeping them productive means heavy documentation, strong architectural guardrails, and strict security auditing on every project. 
+
+My stack lives on CachyOS Linux running an AMD Ryzen AI MAX+ 395 with 128GB unified memory.
 
 I believe AI-assisted development is the future of indie software, and I'm proving it by shipping real products with it.
 
