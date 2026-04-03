@@ -42,7 +42,7 @@ Want to see the portal in action? The free demo lets you summon up to 3 Known ch
 
 - **D&D 5e (2024) Strict Mode** - Optional rules-enforced play with a character sheet that transmutes your character to the closest official D&D class, while leveraging a Hybrid class system for characters that stretch too far beyond core class rules.
 
-**Status:** In active development · Early access (pay once, own forever) coming soon on [itch.io](https://infiniteportalvault.itch.io/infinite-portal-mayhem)
+**Status:** NOW AVAILABLE in Early access (pay once, own forever) on [itch.io](https://infiniteportalvault.itch.io/infinite-portal-mayhem)
 
 ---
 
