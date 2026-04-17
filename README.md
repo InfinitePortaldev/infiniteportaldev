@@ -52,7 +52,7 @@ Available now on [itch.io](https://infiniteportalvault.itch.io):
 
 | Product | Description | Price |
 |---|---|---|
-| **Infinite Portal Vault** | A solo RPG AI Game Master Driven Adventure w/ an Infinite Fictional Character Summoning Engine - EARLY ACCESS PRICING | $19.99 |
+| **Infinite Portal Mayhem** | A solo RPG AI Game Master Driven Adventure w/ an Infinite Fictional Character Summoning Engine - EARLY ACCESS PRICING | $19.99 |
 | **The Investigator's Oracle** | A solo RPG oracle system for investigation and mystery games | $8.99 |
 | **The Cold Case Files** | 5 complete case file adventures for solo horror & mystery roleplaying | $14.99 |
 
