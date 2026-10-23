@@ -12,7 +12,7 @@ An AI-powered character engine where you can summon any fictional character thro
 
 Want to see the portal in action? The free demo lets you summon up to 3 Known characters and 3 Novel (AI-invented) characters, explore their RPG sheets, and export them as beautifully laid-out PDFs. No account required, no API key needed.
 
-👉 [Try the Demo](https://demo.infiniteportalmayhem.com)
+👉 [Try the Demo](https://demo.infiniteportalmayhem.com) -- _[currently down, will be up later]_
 
 #### In Early Access
 
