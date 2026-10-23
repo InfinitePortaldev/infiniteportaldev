@@ -8,7 +8,7 @@ Indie developer & RPG publisher behind Infinite Portal Vault — building tools 
 
 An AI-powered character engine where you can summon any fictional character through a portal and play full RPG adventures across 17 core genres and 131 sub-genres.
 
-#### 🎮 Try the Demo
+#### 🎮 Try the Demo [currently down, will be up later]
 
 Want to see the portal in action? The free demo lets you summon up to 3 Known characters and 3 Novel (AI-invented) characters, explore their RPG sheets, and export them as beautifully laid-out PDFs. No account required, no API key needed.
 
